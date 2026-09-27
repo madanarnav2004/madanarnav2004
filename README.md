@@ -19,13 +19,13 @@ I like being involved before the code: talking to the person who needs something
 | Project | What’s inside |
 | :--- | :--- |
 | **[Sentinel](https://github.com/madanarnav2004/qa_sentinel)** | A browser QA experiment: Jira requirements → Gemini test plans → Playwright runs → screenshot reports. Includes a local UI demo. |
-| **[MaterialFlow](https://github.com/madanarnav2004/material_flow)** | A construction-materials workflow prototype covering requests, approvals, inventory and bill review. Role-based screens with local demo data. |
-| **[Harbor semantic layer](https://github.com/madanarnav2004/databrain-sub)** | A take-home design exercise in business definitions, tenant isolation and safe queries. Includes SQL proofs and a walkthrough. |
+| **[Websauce GTM](https://github.com/madanarnav2004/websauce-gtm)** | A reusable workflow for turning business questions into useful content, checking enquiry paths and learning from responses. Includes worked examples. |
+| **[JugalBandi](https://github.com/madanarnav2004/JugalBandi)** | An early flatmate-finding prototype with profile onboarding, compatibility scoring and messaging, built with Flask and SQLAlchemy. |
 
 ### At the workbench
 
 Python, TypeScript, React / Next.js and SQL. Lately, a lot of document workflows, LLM integrations and browser automation.
 
-I use Codex throughout my work, including to learn unfamiliar domains and test ideas. The [Harbor AI-usage notes](https://github.com/madanarnav2004/databrain-sub/blob/main/ai-tool-usage.md) give a concrete account of what I decided and where AI helped.
+I use Codex throughout my work, including to learn unfamiliar domains and test ideas.
 
 Away from the laptop: motorcycle rides, trips and occasionally spending too long on a 20-second edit.
