@@ -1,11 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
   <title id="title">Arnav Madan</title>
-  <desc id="desc">Product and engineering. Chennai, India.</desc>
+  <desc id="desc">Product and engineering.</desc>
   <rect width="1200" height="310" fill="#f3efe5"/>
   <path d="M42 64H1158" stroke="#cec8bb"/>
   <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" letter-spacing="2" fill="#59564e">
     <text x="44" y="40">PRODUCT + ENGINEERING</text>
-    <text x="1156" y="40" text-anchor="end">CHENNAI, INDIA</text>
   </g>
   <text x="38" y="211" font-family="Georgia, 'Times New Roman', serif" font-size="126" letter-spacing="-6" fill="#262923">Arnav Madan<tspan fill="#c65c3e">.</tspan></text>
   <path d="M47 239C242 231 467 246 729 236" fill="none" stroke="#c65c3e" stroke-width="5" stroke-linecap="round"/>

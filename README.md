@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Arnav Madan — product and engineering, Chennai, India" />
+  <img src="assets/header.svg" width="100%" alt="Arnav Madan — product and engineering" />
 </p>
 
 [Websauce](https://websauce.in) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/arnavmadan1/) &nbsp; / &nbsp; [Outside work](https://www.instagram.com/arnavmadaann/)
 
-I’m Arnav, an AI product engineer in Chennai. I work at Vivriti Next and co-founded **Websauce**, where I work with businesses on websites, custom software and AI tools.
+I’m Arnav, an AI product engineer. I work at Vivriti Next and co-founded **Websauce**, where I work with businesses on websites, custom software and AI tools.
 
 I like being involved before the code: talking to the person who needs something, figuring out what would help, and working through the details until it’s usable.
 
